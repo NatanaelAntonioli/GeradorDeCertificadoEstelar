@@ -145,6 +145,7 @@ def devolve_estrela(m):
 
     if busca.empty:
         mensagem = "Nenhuma estrela encontrada. Mude os filtros."
+        m.configure(text = mensagem)
     else:
 
         busca = busca.sample(n=1) # Escolhemos uma aleatoriamente. 
@@ -266,4 +267,3 @@ btn.place(x=650 + x_offset_adjust, y=95 + global_offset, in_=window)
 
 
 window.mainloop()
-
