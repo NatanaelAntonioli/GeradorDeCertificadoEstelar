@@ -4,7 +4,6 @@ from astropy.coordinates import SkyCoord
 from tkinter import *
 import tkinter.messagebox
 import pyperclip
-import matplotlib.pyplot as plt
 import math
 from PIL import Image
 from PIL import ImageFont
