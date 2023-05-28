@@ -31,7 +31,7 @@ fundo_certificado_ciano = 'certificado_ciano.png'
 fundo_certificado_branco = 'certificado_branco.png'
 fundo_certificado_amarelo = 'certificado_amarelo.png'
 fundo_certificado_laranja = 'certificado_laranja.png'
-fundo_certificado_vermelho = 'certificado_branco.png'
+fundo_certificado_vermelho = 'certificado_vermelho.png'
 
 
 # ------------------------------- Leitura da base de dados -------------------------------
